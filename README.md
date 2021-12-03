@@ -6,4 +6,4 @@ Moreover, a utility is developed that provides the knowledge on the destination 
 
 
 
-Team: Ali Farnoud, Hesam Tofighian, Hani khalili.
+Contributors: Ali Farnoud, Hesam Tofighian, Hani khalili.
